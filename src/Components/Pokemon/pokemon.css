@@ -1,0 +1,23 @@
+.pokemon{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.pokemon img {
+  width: 200px;
+}
+
+.pokemon h2 {
+  margin : 0;
+}
+
+.pokemon ul {
+  list-style: none;
+}
+
+.pokemon li {
+  text-align: left;
+}

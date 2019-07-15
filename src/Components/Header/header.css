@@ -1,0 +1,27 @@
+.header ul {
+  align-items: center;
+  background-color: coral;
+  display: flex;
+  font-size: 1.3em;
+  flex-direction: row;
+  height: 50px;;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.header li {
+  font-size: 1em;
+  margin : 0 15px;
+  list-style-type: none;
+  color: #000000;
+  font-style: none;
+}
+
+.header li a {
+  text-decoration: none;
+}
+
+.header .logo {
+  height: 40px;
+  width: auto;
+}
